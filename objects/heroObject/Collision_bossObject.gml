@@ -1,0 +1,1 @@
+global.heroHealth -= 2;

@@ -1,0 +1,1 @@
+global.heroHealth = global.heroHealth - 10;

@@ -1,0 +1,1 @@
+draw_text(100, 50, "health:" + string(global.heroHealth));

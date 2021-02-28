@@ -1,0 +1,1 @@
+enemyHealth = 15
